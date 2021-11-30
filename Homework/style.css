@@ -1,0 +1,94 @@
+.body{
+    padding-left: 20px;
+    
+    font-family:Arial;
+    margin-right: 100px;
+
+
+
+}
+.heading{
+    color:cornflowerblue;
+    text-align: center;    
+    margin-bottom: 0px;
+    font-size: 50px;
+    font-family:Arial;
+}
+.heading2{
+    color: dimgray;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+    font-family:Arial;
+}
+.para {
+    
+    font-weight: bold;
+    text-align: center;
+    margin-left: 39px;
+    
+    font-size: 19px;
+
+}
+.Secondpart{
+    text-align: center;
+    font-size: 18px;
+    font-family:Arial;
+}
+.thirdpart {
+    font-family:Arial;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.hr1{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.list{
+    text-align: left;
+    font-weight: normal;
+    padding-bottom: 20px;
+}
+.tableM {
+    width: 93%;
+    margin-left: 50px;
+    margin-top: 40px;
+    margin-right: 100px;
+    
+    border-collapse: collapse;
+    border-left: none;
+    background-color: rgb(233, 230, 230);
+ }
+ .tabledata td{
+    border:  1px solid  black;
+    border-collapse: collapse;
+    
+}
+.thead{
+    background-color: gray;
+    color: white;
+    font-size: 20px;;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+.tabletime{
+    text-align: center;
+    margin-top: 0px;
+}
+.tabletimedata{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+
+.tabletime{
+    padding: 10px;
+}
+.foot{
+    text-align: center;
+    color: brown;
+    margin-top:50px;
+    margin-left:50px;
+    margin-right:50px;
+}
